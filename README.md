@@ -78,4 +78,4 @@ Comprender los factores asociados al cáncer de mama y cómo estos afectan la su
 
 1. **Clonar el repositorio**:
    ```bash
-   git clone https://github.com/Masanadd/Breast-Cancer-Data-Exploratory-Data-Analysis-EDA-.git
+   git clone https://github.com/Masanadd/-Breast-Cancer-Data-Exploratory-Data-Analysis-EDA.git
