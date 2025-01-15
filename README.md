@@ -1,3 +1,5 @@
+![EDA Breast Cancer](./EDA%20Breast%20cancer%20image.jpg)
+
 # Breast-Cancer-Data-Exploratory-Data-Analysis-EDA-
 # Análisis Exploratorio de Datos (EDA) sobre Cáncer de Mama
 
