@@ -1,4 +1,5 @@
-![Breast Cancer Awareness](https://github.com/Masanadd/-Breast-Cancer-Data-Exploratory-Data-Analysis-EDA/blob/main/Breast_cancer_pink_.png?raw=true)
+![Breast Cancer Awareness](https://github.com/Masanadd/-Breast-Cancer-Data-Exploratory-Data-Analysis-EDA/blob/main/Images_readme/Breast_cancer_pink_.png?raw=true)
+
 
 # Breast-Cancer-Data-Exploratory-Data-Analysis-EDA-
 # Análisis Exploratorio de Datos (EDA) sobre Cáncer de Mama
@@ -77,4 +78,4 @@ Comprender los factores asociados al cáncer de mama y cómo estos afectan la su
 
 1. **Clonar el repositorio**:
    ```bash
-   git clone https://github.com/Masanadd/Breast-Cancer-Data-Exploratory-Data-Analysis-EDA-.git
+   git clone https://github.com/Masanadd/-Breast-Cancer-Data-Exploratory-Data-Analysis-EDA.git
