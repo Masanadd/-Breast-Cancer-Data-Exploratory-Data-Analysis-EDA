@@ -1,4 +1,4 @@
-![Breast Cancer Awareness](https://github.com/Masanadd/-Breast-Cancer-Data-Exploratory-Data-Analysis-EDA/blob/main/Breast_cancer_pink_.png?raw=true)
+Images_readme/Breast_cancer_pink_.png
 
 # Breast-Cancer-Data-Exploratory-Data-Analysis-EDA-
 # Análisis Exploratorio de Datos (EDA) sobre Cáncer de Mama
